@@ -1,5 +1,7 @@
 # Who Survived Titanic?
 # Portfolio Project
+
+## Updates on GitHub
 ***
 *Dataset used: Titanic Passenger dataset, publically available on Kaggle*
 
