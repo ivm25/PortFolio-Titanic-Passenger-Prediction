@@ -2,6 +2,8 @@
 # Portfolio Project
 
 ## Updates on GitHub
+
+### Changes done via command prompt
 ***
 *Dataset used: Titanic Passenger dataset, publically available on Kaggle*
 
