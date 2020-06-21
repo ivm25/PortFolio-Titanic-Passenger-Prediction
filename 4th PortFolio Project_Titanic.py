@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-# File imported as a Jupyter File.
+# File imported as a Jupyter File and working in spyder for testing
 # ### Table of Contents
 # ***
 # 1 [DEFINE](#definition)
